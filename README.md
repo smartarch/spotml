@@ -1,2 +1,2 @@
-# spotml
-Framework for hyper-parameter tuning on AWS spot instances
+# SpotML
+Framework for hyper-parameter tuning on AWS spot instances.
